@@ -16,8 +16,4 @@ Isso é uma tabela:
 | Atividade | Responsável | Assunto 
 | --- | --- |
 | Apresentação de artigos | Fulanéx  | Whatever |
-| Apresentação de trabalhos em andamento | Beltraníx | Quelque chose |
-| Apresentação de conceito | Cliclanéx | Guess what |
-| Tutoriais | Vídeo? | Quem se importa |
-| Depoimentos | Whomever | ¿Que se yo? |
-| Apresentação de jogos | Everybody | Um maneiro |
+
