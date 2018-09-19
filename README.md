@@ -10,3 +10,10 @@ https://www.youtube.com/watch?v=0fKg7e37bQE
 Entendi que ainda falta um pouco pra eu entender esse vídeo
 
 Hoje aprendi a deletar um repositório da minha coleção. Parece pouco mas, existem várias questões involvidas!
+
+Isso é uma tabela:
+|Programação
+|---|
+|Atividade | Labrat | Tema
+| --- | --- | --- |
+| Apresentação de artigos | Joshua  | MDA |
