@@ -13,5 +13,7 @@ Hoje aprendi a deletar um repositório da minha coleção. Parece pouco mas, exi
 
 Isso é uma tabela:
 
-| entrada 1 | Entrada 2
+| Atividade | Responsável 
+| --- | --- |
+| Apresentação de artigos | Joshua
 | --- | --- |
