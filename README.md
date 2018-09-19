@@ -13,9 +13,9 @@ Hoje aprendi a deletar um repositório da minha coleção. Parece pouco mas, exi
 
 Isso é uma tabela:
 
-|Programação|  |  
-| --- | --- | --- |
+
 | Atividade | Responsável | Assunto 
+| --- | --- | --- |
 | Apresentação de artigos | Fulanéx  | Whatever |
 | Apresentação de trabalhos em andamento | Beltraníx | Quelque chose |
 | Apresentação de conceito | Cliclanéx | Guess what |
