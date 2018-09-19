@@ -12,7 +12,8 @@ Entendi que ainda falta um pouco pra eu entender esse vídeo
 Hoje aprendi a deletar um repositório da minha coleção. Parece pouco mas, existem várias questões involvidas!
 
 Isso é uma tabela:
-
+| Programação 
+|---|
 | Atividade | Responsável | Assunto 
 | --- | --- | --- |
 | Apresentação de artigos | Fulanéx  | Whatever |
