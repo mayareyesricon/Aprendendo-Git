@@ -13,7 +13,7 @@ Hoje aprendi a deletar um repositório da minha coleção. Parece pouco mas, exi
 
 Isso é uma tabela:
 
-|Programação      |
+|Programação|  |  
 | --- | --- | --- |
 | Atividade | Responsável | Assunto 
 | Apresentação de artigos | Fulanéx  | Whatever |
